@@ -31,3 +31,6 @@ git add .
 git commit -m "Сообщение коммита"
 git push
 ```
+## Шпора 
+ctrl+c - остановить процесс
+npm run test:open - запустить команду
