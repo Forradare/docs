@@ -37,4 +37,4 @@ git push
 (если были изменения на удаленке, то git pull)
 ## Шпора 
 ctrl+c - остановить процесс
-npm run test:open - запустить команду
+npm run test:open - запустить команду (cypress)
